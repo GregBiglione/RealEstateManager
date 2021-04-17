@@ -18,6 +18,7 @@
   <li>Do a filtered search of properties</li>
   <li>Geolocate a property on a map using its address</li>
   <li>Access the detailed profile of a property by clicking on the tooltip on the map</li>
+  <li>Make the data accessible to another application in a secure way.</li>
 </ul>
 
 <h2>Application demo</h2></br>
