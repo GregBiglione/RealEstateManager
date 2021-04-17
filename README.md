@@ -41,7 +41,7 @@
 <h2>Librairies</h2></br>
 <ul>
  <li><a href="https://github.com/bumptech/glide">Glide</a></li>
- <li><a href="https://github.com/hdodenhof/CircleImageView">hdodenhof circleImageView</a></li>
+ <li><a href="https://github.com/hdodenhof/CircleImageView">CircleImageView</a></li>
  <li><a href="https://developer.android.com/jetpack/androidx/releases/cardview?hl=fr">Cardview</a></li>
  <li><a href="https://github.com/greenrobot/EventBus">EventBus</a></li>
  <li><a href="https://developer.android.com/jetpack/androidx/releases/room">Room</a></li>
