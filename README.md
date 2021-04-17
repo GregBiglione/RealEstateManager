@@ -26,7 +26,7 @@
 
 <img src = "https://github.com/GregBiglione/RealEstateManager/blob/master/app/src/main/res/drawable/add_and_update_agent.gif" title = "Add and update agent" alt = "Add and update agent" width="273" height="450"> <img src = "https://github.com/GregBiglione/RealEstateManager/blob/master/app/src/main/res/drawable/credit_simulator.gif" title = "Credit simulator" alt = "Credit simulator" width="273" height="450"> <img src = "https://github.com/GregBiglione/RealEstateManager/blob/master/app/src/main/res/drawable/settings_and_detail.gif" title = "Settings" alt = "Settings" width="273" height="450">
 
-<h4>Add property, access camera and gallery, received notification when a property is added, upadte property, filtered search</h4></br>
+<h4>Add property, access camera and gallery, receive a notification when a property is added, upadte property, filtered search</h4></br>
 
 <img src = "https://github.com/GregBiglione/RealEstateManager/blob/master/app/src/main/res/drawable/add.gif" title = "Add house" alt = "Add house" width="273" height="450"> <img src = "https://github.com/GregBiglione/RealEstateManager/blob/master/app/src/main/res/drawable/update_house.gif" title = "Update house" alt = "Update house" width="273" height="450"> <img src = "https://github.com/GregBiglione/RealEstateManager/blob/master/app/src/main/res/drawable/filtered_search.gif" title = "Filtered search" alt = "Filtered search" width="273" height="450"> 
 
@@ -63,6 +63,6 @@
 <h2>Languages available</h2></br>
 
 <ul>
- <li><a href="https://developers.google.com/maps/documentation/android-sdk/start">English</a></li>
- <li><a href="https://developers.google.com/places/android-sdk/start">French</a></li>
+ <li>English</li>
+ <li>>French</li>
 </ul>
