@@ -1,4 +1,4 @@
-<b>RealEstateManager</b> is an Android application to view a list of properties</br>
+<b>RealEstateManager</b> is an Android application to view and manage a list of properties</br>
 
 <h2>Application features</h2></br>
 <ul>
