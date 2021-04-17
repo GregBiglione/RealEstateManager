@@ -12,7 +12,7 @@
   <li>Access the details of a property</li>
   <li>Show property's location on a static map</li>
   <li>Add a property and receive a notification when it's added</li>
-  <li>Register a property in a room database</li>
+  <li>Register data in a room database</li>
   <li>Access all application data offline (without internet connection)</li>
   <li>Update a property</li>
   <li>Do a filtered search of properties</li>
