@@ -64,5 +64,5 @@
 
 <ul>
  <li>English</li>
- <li>>French</li>
+ <li>French</li>
 </ul>
